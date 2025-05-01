@@ -1,0 +1,16 @@
+  <!-- Pulse wave background -->
+<svg width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M5 25 Q12.5 15, 20 25 Q27.5 35, 35 25 Q42.5 15, 45 25" stroke="#4F46E5" stroke-width="3" fill="none"/>
+  
+  <!-- Circle representing the AI core -->
+  <circle cx="25" cy="25" r="15" fill="#4F46E5" opacity="0.2"/>
+  <circle cx="25" cy="25" r="12" fill="#4F46E5" opacity="0.4"/>
+  
+  <!-- M for MOCPULSE -->
+  <path d="M15 20 L20 30 L25 20 L30 30 L35 20" stroke="#4F46E5" stroke-width="3" fill="none" stroke-linecap="round"/>
+  
+  <!-- Dots representing digital/AI aspect -->
+  <circle cx="20" cy="15" r="2" fill="#4F46E5"/>
+  <circle cx="30" cy="15" r="2" fill="#4F46E5"/>
+  <circle cx="25" cy="35" r="2" fill="#4F46E5"/>
+</svg>
